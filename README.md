@@ -1,3 +1,3 @@
 # Numerical Methods:
 
-- Gauss-Legendre(Fortran): GSL8
+- Gauss-Legendre: Simplectic Numerical Method GSL8 on Fortran
